@@ -1,9 +1,9 @@
 ## 📚 Development of a Java Swing Desktop CRUD Application Using JDBC and OOP Principles
 ## 👥 Group Members
 ## Name	Student RegNo
-## NIYONKURU ROBERT	24RP05300
-## SIWEMUBI ALINE	24RP04505
-📝 Project Description
+## NIYONKURU ROBERT	24RP05300.
+## SIWEMUBI ALINE	24RP04505.
+📝 Project Description.
 
 ## This project is a Java Swing Desktop Application designed to manage data efficiently in a chosen domain. It integrates JDBC for database connectivity, RegEx for data validation, and demonstrates clear Object-Oriented Programming (OOP) principles.
 
